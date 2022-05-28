@@ -13,7 +13,7 @@ Easy to use
 tailwindcss
 Pages
 
-✔️ Index ✔️ About ✔️ Blog ✔️ Pricing ✔️ Career ✔️ Contact
+✔️ Index ✔️ Web development ✔️ Blockchain ✔️ About ✔️ Career ✔️ Contact
 
 Technologies Used
 React
