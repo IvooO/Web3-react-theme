@@ -16,10 +16,5 @@ Pages
 ✔️ Index ✔️ Web development ✔️ Blockchain ✔️ About ✔️ Career ✔️ Contact
 
 Technologies Used
-React
-Gatsby
-For the Future
-If you have awesome ideas on your mind, please don't hesitate to open a pull request.
-
-Thanks
-If you like this portfolio template don't forget give it a ⭐ and also share it with me here.
+- React
+- Gatsby
