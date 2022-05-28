@@ -5,69 +5,52 @@ import Fade from "react-reveal/Fade"
 
 const BlogsContainer = () => {
   const blogData = [
+
+    {
+      img:
+        "https://images.unsplash.com/photo-1552960394-c81add8de6b8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjR8fHdvcmtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+      heading: "Gathering Information.",
+      para:
+        "This stage, the stage of discovering and researching, determines how the subsequent steps will look like."
+
+      },
     {
       img:
         "https://images.unsplash.com/photo-1498758536662-35b82cd15e29?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fHdvcmtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-      heading: "The Quick Brown Fox Jumped over the lazy dog.",
+      heading: "Planning.",
       para:
-        " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "At this stage of the website development cycle, the developer creates the data that allows a customer to judge how the entire site will look like.",
     },
     {
       img:
         "https://images.unsplash.com/photo-1590650516494-0c8e4a4dd67e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHdvcmtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-      heading: "The Quick Brown Fox Jumped over the lazy dog.",
+      heading: "Design.",
       para:
         " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
     },
     {
       img:
         "https://images.unsplash.com/photo-1553877522-43269d4ea984?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHdvcmtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-      heading: "The Quick Brown Fox Jumped over the lazy dog.",
+      heading: "Development.",
       para:
         " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
     },
     {
       img:
         "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTJ8fHdvcmtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-      heading: "The Quick Brown Fox Jumped over the lazy dog.",
+      heading: "Launch.",
       para:
         " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
     },
     {
       img:
         "https://images.unsplash.com/photo-1507207611509-ec012433ff52?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTh8fHdvcmtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-      heading: "The Quick Brown Fox Jumped over the lazy dog.",
+      heading: "Maintenance.",
       para:
         " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
     },
-    {
-      img:
-        "https://images.unsplash.com/photo-1552960394-c81add8de6b8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjR8fHdvcmtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-      heading: "The Quick Brown Fox Jumped over the lazy dog.",
-      para:
-        " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img:
-        "https://images.unsplash.com/photo-1507209575474-fa61e9d3086b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Njd8fHdvcmtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-      heading: "The Quick Brown Fox Jumped over the lazy dog.",
-      para:
-        " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img:
-        "https://images.unsplash.com/photo-1488751045188-3c55bbf9a3fa?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjZ8fHdvcmtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-      heading: "The Quick Brown Fox Jumped over the lazy dog.",
-      para:
-        " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img:
-        "https://images.unsplash.com/photo-1542330952-bffc55e812b2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODV8fHdvcmtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-      heading: "The Quick Brown Fox Jumped over the lazy dog.",
-      para:
-        " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
+   
+    
   ]
   return (
     <div className="max-w-7xl mx-auto mt-10 text-white">
