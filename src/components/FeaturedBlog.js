@@ -1,5 +1,13 @@
 import React from "react"
 
+// Assets
+
+ import web1image from "../images/web1.png"
+import web2image from "../images/web2.png"
+import web3image from "../images/web3.png"
+
+
+
 const FeaturedBlog = () => {
   return (
     <div className="max-w-7xl mx-auto px-8 mt-10">
@@ -17,7 +25,7 @@ const FeaturedBlog = () => {
           <img
             className="relative"
             alt="blog"
-            src="https://images.unsplash.com/photo-1620034949504-339c43e9cd56?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
+            src={web1image}
           ></img>
           <div class="opacity-0 hover:opacity-100 duration-300 absolute inset-0 z-10 text-3xl text-white font-bold p-2">
             The quick brown fox jumped over the lazy dog.
@@ -27,7 +35,7 @@ const FeaturedBlog = () => {
           <img
             className="relative"
             alt="blog"
-            src="https://images.unsplash.com/photo-1620034949504-339c43e9cd56?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
+            src={web2image}
           ></img>
           <div class="opacity-0 hover:opacity-100 duration-300 absolute inset-0 z-10 text-3xl text-white font-bold p-2">
             The quick brown fox jumped over the lazy dog.
@@ -37,7 +45,7 @@ const FeaturedBlog = () => {
           <img
             className="relative"
             alt="blog"
-            src="https://images.unsplash.com/photo-1620034949504-339c43e9cd56?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
+            src={web3image}
           ></img>
           <div class="opacity-0 hover:opacity-100 duration-300 absolute inset-0 z-10 text-3xl text-white font-bold p-2">
             The quick brown fox jumped over the lazy dog.
