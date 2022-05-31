@@ -25,6 +25,7 @@ Technologies Used
 - Gatsby
 
 How To Use
+
 From your command line, clone and run react-portfolio-template:
 
 # Clone this repository
