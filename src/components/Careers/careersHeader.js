@@ -22,7 +22,7 @@ const CareersHeader = () => {
             </p>
           </div>
           <div className="w-2/4 rounded-xl overflow-hidden m-2">
-            <img src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"></img>
+            <img src="https://pbs.twimg.com/media/EtVoP30UYAADxXs?format=jpg&name=large"></img>
           </div>
         </div>
       </Fade>

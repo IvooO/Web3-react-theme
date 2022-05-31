@@ -26,7 +26,7 @@ const Testimonial = () => {
           <div className="w-1/4 overflow-hidden flex align-middle justify-center xxs:hidden sm:block">
             <img
               className="rounded-xl w-auto h-auto"
-              src="https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGVvcGxlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+              src="https://media.bizj.us/view/img/8173162/morgancreekcapital7*750xx3000-1690-0-115.jpg"
             ></img>
           </div>
         </div>

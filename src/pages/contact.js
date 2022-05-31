@@ -51,7 +51,7 @@ const Contact = () => {
           <div className="w-1/4 overflow-hidden rounded-xl m-5 xxs:hidden sm:block">
             <img
               className="object-cover h-full w-full"
-              src="https://images.unsplash.com/photo-1537511446984-935f663eb1f4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+              src="https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/ENYPLN2PYZGIRFRWU636H3SAYY.png"
             ></img>
           </div>
         </div>

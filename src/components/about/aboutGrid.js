@@ -5,28 +5,28 @@ const AboutGrid = () => {
   return (
     <div className="max-w-7xl mx-auto mt-20 grid grid-cols-3 gap-16 justify-items-center xxs:grid-cols-1 sm:grid-cols-3">
       <AboutTeamCard
-        imgSrc="https://images.unsplash.com/photo-1534030347209-467a5b0ad3e6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"
-        position="Justin, CTO"
+        imgSrc="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/VitalikButerinProfile.jpg/1920px-VitalikButerinProfile.jpg"
+        position="Vitalik, CTO"
       ></AboutTeamCard>
       <AboutTeamCard
-        imgSrc="https://images.unsplash.com/photo-1507038732509-8b1a9623223a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAwfHxwZW9wbGV8ZW58MHwxfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
-        position="John, CEO"
+        imgSrc="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibGfhAS4ZQ6k/v1/1200x-1.jpg"
+        position="Zhu Su, CEO"
       ></AboutTeamCard>
       <AboutTeamCard
-        imgSrc="https://images.unsplash.com/photo-1515468381879-40d0ded81044?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA3fHxwZW9wbGV8ZW58MHwxfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
-        position="Sophia, Manager"
+        imgSrc="https://api.time.com/wp-content/uploads/2014/03/nakamoto.jpg"
+        position="Satochi, Manager"
       ></AboutTeamCard>
       <AboutTeamCard
-        imgSrc="https://images.unsplash.com/photo-1536096928601-99bac26a838b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE5fHxwZW9wbGV8ZW58MHwxfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
-        position="Kristina, Designer"
+        imgSrc="https://www.whizlabs.com/blog/wp-content/uploads/2019/03/adam-back-1.jpg"
+        position="Adam Back, Designer"
       ></AboutTeamCard>
       <AboutTeamCard
-        imgSrc="https://images.unsplash.com/photo-1484515991647-c5760fcecfc7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI1fHxwZW9wbGV8ZW58MHwxfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
-        position="Devin Ferry, Manager"
+        imgSrc="https://en.bitcoinwiki.org/upload/en/images/2/28/Elizabeth_Stark.jpg"
+        position="Elizabeth, Manager"
       ></AboutTeamCard>
       <AboutTeamCard
-        imgSrc="https://images.unsplash.com/photo-1539125530496-3ca408f9c2d9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI4fHxwZW9wbGV8ZW58MHwxfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
-        position="David, Developer"
+        imgSrc="https://imageio.forbes.com/specials-images/imageserve/5fb49945fed0df3140c26ca4/0x0.jpg?format=jpg&crop=1080,1080,x0,y0,safe&height=416&width=416&fit=bounds"
+        position="Jack, Developer"
       ></AboutTeamCard>
     </div>
   )
