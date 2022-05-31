@@ -23,3 +23,18 @@ Features:
 Technologies Used
 - React
 - Gatsby
+
+How To Use
+From your command line, clone and run react-portfolio-template:
+
+# Clone this repository
+$ git clone https://github.com/chetanverma16/circle-theme.git
+
+# Go into the repository
+$ cd circle-theme
+
+# Install dependencies
+$ yarn
+
+#Start's development server
+$ gatsby develop
